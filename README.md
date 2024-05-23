@@ -11,4 +11,7 @@ This is how the applicationn looks like.
 This is a sample example, genearating a small blog on cricket. I instructed to use stickers in the prompt. So stickers are appearing in the blog.
 
 
+Note: This is a small model, so the blog is small 😅.
+
+
 
